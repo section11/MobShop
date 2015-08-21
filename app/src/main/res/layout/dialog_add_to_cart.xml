@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="75dp"
+    android:background="@color/white">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nume Produs"
+        android:textSize="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/addToCartName"/>
+
+    <RelativeLayout
+        android:layout_width="60dp"
+        android:layout_height="fill_parent"
+        android:layout_toLeftOf="@+id/addToCartPriceBox"
+        android:id="@+id/addToCartQuantityBox"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cantitate"
+            android:layout_alignParentTop="true"/>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:id="@+id/addToCartSpinner"
+            android:layout_alignParentBottom="true"/>
+
+        </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_toLeftOf="@+id/dialogAddToCartButton"
+        android:id="@+id/addToCartPriceBox"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:text="Pret"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="xxxxxxx lei"/>
+        </RelativeLayout>
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dialogAddToCartButton"
+        android:src="@drawable/ok"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingRight="10dp"
+        android:background="@color/white"/>
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme.-->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+        <item name="android:actionOverflowButtonStyle">@style/MyOverflow</item>
+    </style>
+
+    <!-- Base application theme.-->
+    <style name="AppThemeNoBar" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here.-->
+    </style>
+
+    <style name="MyOverflow">
+
+        <item name="android:visible">false</item>
+    </style>
+
+    <style name="MyActionBarTitleText">
+        <item name="android:textColor">@color/actiontext</item>
+        <item name="android:showAsAction">ifRoom</item>
+    </style>
+
+    <!-- Bonus: if you want to style whole Action Bar, not just the menu-->
+    <style name="ActionBar" parent="android:Widget.Holo.Light.ActionBar.Solid">
+        <!-- Blue background color & black bottom border-->
+        <item name="android:background">@drawable/menu_dropdown</item>
+        <item name="android:titleTextStyle">@style/MyActionBarTitleText</item>
+
+    </style>
+
+
+
+    <!-- the theme applied to the application or activity -->
+
+    <style name="Widget.GifMoviewView" parent="@android:style/Widget"></style>
+
+</resources>
