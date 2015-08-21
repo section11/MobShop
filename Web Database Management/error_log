@@ -1,0 +1,108 @@
+[04-Feb-2014 20:38:14 Europe/Bucharest] PHP Fatal error:  Cannot redeclare class Welcome in /home/dragomi1/public_html/calin/application/models/admin_model.php on line 3
+[04-Feb-2014 20:52:03 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '}' in /home/dragomi1/public_html/calin/application/controllers/admin.php on line 24
+[04-Feb-2014 21:33:25 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dragomi1/public_html/calin/application/controllers/admin.php on line 21
+[04-Feb-2014 21:56:23 Europe/Bucharest] PHP Parse error:  syntax error, unexpected 'to' (T_STRING), expecting ')' in /home/dragomi1/public_html/calin/application/controllers/admin.php on line 46
+[04-Feb-2014 21:56:38 Europe/Bucharest] PHP Fatal error:  Call to a member function render() on a non-object in /home/dragomi1/public_html/calin/application/controllers/admin.php on line 55
+[05-Feb-2014 15:09:52 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dragomi1/public_html/calin/application/controllers/admin.php on line 69
+[10-Feb-2014 23:18:04 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$db_name' (T_VARIABLE) in /home/dragomi1/public_html/calin/api.php on line 5
+[10-Feb-2014 23:29:13 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$db_name' (T_VARIABLE) in /home/dragomi1/public_html/calin/api.php on line 5
+[10-Feb-2014 23:29:15 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$db_name' (T_VARIABLE) in /home/dragomi1/public_html/calin/api.php on line 5
+[10-Feb-2014 23:29:25 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$db_name' (T_VARIABLE) in /home/dragomi1/public_html/calin/api.php on line 5
+[10-Feb-2014 23:29:51 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$db_name' (T_VARIABLE) in /home/dragomi1/public_html/calin/api.php on line 5
+[10-Feb-2014 23:29:53 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$db_name' (T_VARIABLE) in /home/dragomi1/public_html/calin/api.php on line 5
+[10-Feb-2014 23:29:53 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$db_name' (T_VARIABLE) in /home/dragomi1/public_html/calin/api.php on line 5
+[10-Feb-2014 23:30:31 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'cristiandragomir.net/calin' (2) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:33:32 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'dragomircristian.net/' (2) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:34:07 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'https' (0) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:34:46 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'https' (0) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:34:57 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'https' (2) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:35:20 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'http' (0) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:35:22 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'http' (0) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:35:50 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'dragomircristian.net/calin' (0) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:37:28 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:38:50 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:26 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:27 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:27 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:27 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:27 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:28 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:28 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:28 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:39:28 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'dragomi1'@'c6174.tlh.ro' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:40:27 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:40:43 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:40:43 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:40:44 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:41:17 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:41:30 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:41:31 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:41:31 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:41:31 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:41:31 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:41:31 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:41:32 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:05 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:06 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:06 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:06 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:06 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:06 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:13 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:37 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:42:39 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:43:00 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:43:01 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:43:02 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:43:15 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:43:57 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:44:43 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:44:46 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:44:47 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:44:48 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:45:10 Europe/Bucharest] PHP Warning:  mysql_connect(): Unknown MySQL server host 'httdragomircristian.net' (0) in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:45:27 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[10-Feb-2014 23:49:01 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[11-Feb-2014 00:05:13 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[11-Feb-2014 01:09:15 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[11-Feb-2014 01:26:04 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[12-Feb-2014 03:51:51 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[12-Feb-2014 04:08:49 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[12-Feb-2014 20:48:11 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[12-Feb-2014 20:50:26 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[12-Feb-2014 20:55:52 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[12-Feb-2014 20:56:32 Europe/Bucharest] PHP Warning:  mysql_connect(): Access denied for user 'calin'@'localhost' (using password: YES) in /home/dragomi1/public_html/calin/api.php on line 7
+[12-Feb-2014 20:58:13 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:58:36 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:31 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:32 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:32 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:32 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:33 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:34 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:34 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:34 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[12-Feb-2014 20:59:34 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[14-Feb-2014 00:00:32 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[14-Feb-2014 00:01:32 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[14-Feb-2014 00:01:34 Europe/Bucharest] PHP Warning:  mysql_connect(): Host 'c6174.tlh.ro' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/dragomi1/public_html/calin/api.php on line 7
+[14-Feb-2014 00:03:58 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/dragomi1/public_html/calin/api.php on line 8
+[14-Feb-2014 00:04:48 Europe/Bucharest] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/dragomi1/public_html/calin/api.php on line 8
+[14-Feb-2014 17:34:26 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:35:29 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:35:30 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:35:31 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:35:31 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:42:14 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:46:57 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:46:57 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:46:58 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:46:58 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 17:47:45 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[14-Feb-2014 18:46:54 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/categories.php on line 13
+[17-Feb-2014 18:15:52 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[17-Feb-2014 18:16:13 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/categories.php on line 21
+[17-Feb-2014 18:16:23 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[17-Feb-2014 18:17:06 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
+[27-Feb-2014 12:54:12 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$output' (T_VARIABLE) in /home/dragomi1/public_html/calin/application/controllers/admin.php on line 71
+[11-Mar-2014 09:40:22 Europe/Bucharest] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dragomi1/public_html/calin/api.php on line 36
