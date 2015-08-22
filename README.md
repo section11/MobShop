@@ -1,0 +1,1 @@
+During my internship at the Government of Romania, I developed a mobile app for Android devices. Using this app a citizen can be informed of the public jobs in his or her area, the citizen can also search for public jobs in other areas and also the citizen can add them to favourite jobs. Due to the high corruption in Romania and due to lack of interest this app wasn't published.
